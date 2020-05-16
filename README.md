@@ -1,4 +1,4 @@
-
+e
 # ZeroMind
 
 使用XMind记录CS的一些基础知识，项目包括`.xmind`源文件以及输出的`.pdf`文件。
@@ -13,6 +13,7 @@
 - [设计模式](#设计模式)
 - [Go语言基础](#Go语言基础)
 - [Python](#Python)
+- [Kubernetes基础](#Kubernetes基础)
 
 
 ## LinuxAPI
@@ -103,4 +104,6 @@
 - [Weakref](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Python/2.%20Weakref.pdf)
 
 
+## Kubernetes基础
 
+- [Docker与Kubeamd](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/1.%20Docker%E4%B8%8EKubeadm.pdf)
