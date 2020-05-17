@@ -106,6 +106,6 @@
 
 ## Kubernetes基础
 
-- [Docker与Kubeamd](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/1.%20Docker%E4%B8%8EKubeadm.pdf)
+- [Docker与Kubeadm](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/1.%20Docker%E4%B8%8EKubeadm.pdf)
 - [Pod](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/2.%20Pod.pdf)
 - [Controller](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/3.%20Controller.pdf)
