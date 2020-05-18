@@ -53,7 +53,7 @@
 - [Trie-IDE的自动补齐可用什么结构实现](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DataStructure/11.%20Trie-IDE%E7%9A%84%E8%87%AA%E5%8A%A8%E8%A1%A5%E9%BD%90%E5%8F%AF%E7%94%A8%E4%BB%80%E4%B9%88%E7%BB%93%E6%9E%84%E5%AE%9E%E7%8E%B0.pdf)
 - [并查集-如何快速判断节点连通性](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DataStructure/12.%20%E5%B9%B6%E6%9F%A5%E9%9B%86-%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E5%88%A4%E6%96%AD%E8%8A%82%E7%82%B9%E8%BF%9E%E9%80%9A%E6%80%A7.pdf)
 - [堆-山顶的石头最有价值](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DataStructure/13.%20%E5%A0%86-%E5%B1%B1%E9%A1%B6%E7%9A%84%E7%9F%B3%E5%A4%B4%E6%9C%80%E6%9C%89%E4%BB%B7%E5%80%BC.pdf)
-- 线段树
+- [线段树-快速求解区间问题](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DataStructure/14.%20%E7%BA%BF%E6%AE%B5%E6%A0%91-%E5%BF%AB%E9%80%9F%E6%B1%82%E8%A7%A3%E5%8C%BA%E9%97%B4%E9%97%AE%E9%A2%98.pdf)
 
 
 ## Network
