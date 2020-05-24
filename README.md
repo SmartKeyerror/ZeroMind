@@ -14,6 +14,7 @@
 - [Go语言基础](#Go语言基础)
 - [Python](#Python)
 - [Kubernetes基础](#Kubernetes基础)
+- [MySQL](#MySQL)
 
 
 ## LinuxAPI
@@ -109,3 +110,8 @@
 - [Docker与Kubeadm](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/1.%20Docker%E4%B8%8EKubeadm.pdf)
 - [Pod](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/2.%20Pod.pdf)
 - [Controller](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/3.%20Controller.pdf)
+
+
+## MySQL
+
+- [ACID中的AD](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/MySQL/1.%20ACID%E4%B8%AD%E7%9A%84AD.pdf)
