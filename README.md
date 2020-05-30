@@ -15,6 +15,7 @@
 - [Python](#Python)
 - [Kubernetes基础](#Kubernetes基础)
 - [MySQL](#MySQL)
+- [分布式系统](#分布式系统)
 
 
 ## LinuxAPI
@@ -115,3 +116,8 @@
 ## MySQL
 
 - [ACID中的AD](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/MySQL/1.%20ACID%E4%B8%AD%E7%9A%84AD.pdf)
+
+
+## 分布式系统
+
+- [分布式系统概念](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DistributedSystem/1.%20%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E6%A6%82%E5%BF%B5.pdf)
