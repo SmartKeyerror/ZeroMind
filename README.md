@@ -124,3 +124,4 @@
 - [MapReduce](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DistributedSystem/2.%20MapReduce.pdf)
 - [Raft-领导选举与日志复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DistributedSystem/3.%20Raft%2801%29.pdf)
 - [Raft-网络分区](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DistributedSystem/4.%20Raft%2802%29.pdf)
+- [Quorum NWR](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DistributedSystem/5.%20Quorum%20NWR.pdf)
