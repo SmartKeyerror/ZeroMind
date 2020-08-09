@@ -112,6 +112,8 @@
 - [Docker与Kubeadm](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/1.%20Docker%E4%B8%8EKubeadm.pdf)
 - [Pod](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/2.%20Pod.pdf)
 - [Controller](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/3.%20Controller.pdf)
+- [Service](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/4.%20Service.pdf)
+- [Kubernetes声明式API](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/5.%20%E5%A3%B0%E6%98%8E%E5%BC%8FAPI.pdf)
 
 
 ## MySQL
