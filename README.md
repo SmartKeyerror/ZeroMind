@@ -114,7 +114,7 @@
 - [Controller](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/3.%20Controller.pdf)
 - [Service](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/4.%20Service.pdf)
 - [Kubernetes声明式API](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/5.%20%E5%A3%B0%E6%98%8E%E5%BC%8FAPI.pdf)
-
+- [Kubernetes容器网络](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/6.%20Kubernetes%E5%AE%B9%E5%99%A8%E7%BD%91%E7%BB%9C.pdf)
 
 ## MySQL
 
