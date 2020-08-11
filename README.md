@@ -115,6 +115,7 @@
 - [Service](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/4.%20Service.pdf)
 - [Kubernetes声明式API](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/5.%20%E5%A3%B0%E6%98%8E%E5%BC%8FAPI.pdf)
 - [Kubernetes容器网络](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/6.%20Kubernetes%E5%AE%B9%E5%99%A8%E7%BD%91%E7%BB%9C.pdf)
+- [Kubernetes持久化存储](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/Kubernetes/7.%20Kubernetes%E6%8C%81%E4%B9%85%E5%8C%96%E5%AD%98%E5%82%A8.pdf)
 
 ## MySQL
 
