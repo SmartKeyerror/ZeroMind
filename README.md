@@ -16,7 +16,7 @@
 - [Kubernetes基础](#Kubernetes基础)
 - [MySQL](#MySQL)
 - [分布式系统](#分布式系统)
-- [C++基础](#C++基础)
+- [C++基础](#C基础)
 
 
 ## LinuxAPI
