@@ -16,6 +16,7 @@
 - [Kubernetes基础](#Kubernetes基础)
 - [MySQL](#MySQL)
 - [分布式系统](#分布式系统)
+- [C++基础](#C++基础)
 
 
 ## LinuxAPI
@@ -131,3 +132,7 @@
 - [Raft-网络分区](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DistributedSystem/4.%20Raft%2802%29.pdf)
 - [Quorum NWR](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DistributedSystem/5.%20Quorum%20NWR.pdf)
 - [单领导者复制](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/DistributedSystem/6.%20%E5%8D%95%E9%A2%86%E5%AF%BC%E8%80%85%E5%A4%8D%E5%88%B6.pdf)
+
+
+## C++基础
+- [const](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/C%2B%2B/1.%20const.pdf)
