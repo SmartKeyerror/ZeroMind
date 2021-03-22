@@ -136,3 +136,4 @@
 
 ## C++基础
 - [const](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/C%2B%2B/1.%20const.pdf)
+- [Template](https://smartkeyerror.oss-cn-shenzhen.aliyuncs.com/ZeroMind/C%2B%2B/2.%20Template.pdf)
